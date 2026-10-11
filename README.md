@@ -1,8 +1,8 @@
 <div align="center">
 
-# OZZY TR
+# ZORYA
 
-**AION 2 için Türkçe yama ve oyuncu başlatıcısı**
+**AION 2 Türkçe Yama ve Launcher**
 
 Tek tıkla Türkçe oyun metni, otomatik güncelleme, etkinlik takvimi, boss saatleri ve etkileşimli harita.
 
@@ -23,9 +23,9 @@ Tek tıkla Türkçe oyun metni, otomatik güncelleme, etkinlik takvimi, boss saa
 
 ## Kurulum
 
-1. [Son sürümü](https://github.com/codedbyOzzy/ozzytr/releases/tag/app) indirin (`OZZYTR_..._x64-setup.exe`).
+1. [Son sürümü](https://github.com/codedbyOzzy/ozzytr/releases/tag/app) indirin (`ZORYA_..._x64-setup.exe`).
 2. Kurulum dosyasını çalıştırın. Windows ilk çalıştırmada bir uyarı gösterirse **Ek bilgi → Yine de çalıştır** seçin.
-3. OZZY TR'yi açın ve **Türkçe yamayı kur** düğmesine basın.
+3. ZORYA'yı açın ve **Türkçe yamayı kur** düğmesine basın.
 
 Sonraki güncellemeler uygulamanın içinden otomatik gelir.
 
@@ -36,5 +36,5 @@ Dosyalar uygulama tarafından otomatik indirilir; elle bir işlem gerekmez.
 
 ---
 
-<sub>OZZY TR bağımsız bir topluluk projesidir; NCSOFT veya AION 2 ile bağlantılı değildir. Oyuna ait tüm içerik ve markalar ilgili hak sahiplerine aittir.
-© 2026 OZZY. "OZZY TR" adı ve logosu bana aittir.</sub>
+<sub>ZORYA bağımsız bir topluluk projesidir; NCSOFT veya AION 2 ile bağlantılı değildir. Oyuna ait tüm içerik ve markalar ilgili hak sahiplerine aittir.
+© 2026 OZZY. "ZORYA" adı ve logosu bana aittir.</sub>
