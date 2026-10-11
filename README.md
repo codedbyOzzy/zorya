@@ -6,7 +6,7 @@
 
 Tek tıkla Türkçe oyun metni, otomatik güncelleme, etkinlik takvimi, boss saatleri ve etkileşimli harita.
 
-[**⬇ İndir**](https://github.com/codedbyOzzy/ozzytr/releases/tag/app)
+[**⬇ İndir**](https://github.com/codedbyOzzy/zorya/releases/tag/app)
 
 </div>
 
@@ -23,7 +23,7 @@ Tek tıkla Türkçe oyun metni, otomatik güncelleme, etkinlik takvimi, boss saa
 
 ## Kurulum
 
-1. [Son sürümü](https://github.com/codedbyOzzy/ozzytr/releases/tag/app) indirin (`ZORYA_..._x64-setup.exe`).
+1. [Son sürümü](https://github.com/codedbyOzzy/zorya/releases/tag/app) indirin (`ZORYA_..._x64-setup.exe`).
 2. Kurulum dosyasını çalıştırın. Windows ilk çalıştırmada bir uyarı gösterirse **Ek bilgi → Yine de çalıştır** seçin.
 3. ZORYA'yı açın ve **Türkçe yamayı kur** düğmesine basın.
 
