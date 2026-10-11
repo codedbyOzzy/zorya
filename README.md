@@ -1,32 +1,40 @@
+<div align="center">
+
 # OZZY TR
 
-**AION 2 için Türkçe yama ve başlatıcı.** Oyunun dil dosyasını Türkçe ile değiştirir; ayrıca etkinlik takvimi, boss saatleri ve harita gibi yardımcı araçlar sunar.
+**AION 2 için Türkçe yama ve oyuncu başlatıcısı**
 
-> Bu proje **resmî değildir**. NCSOFT ya da AION 2 ile bir bağı yoktur, onlar tarafından onaylanmamıştır. Ücretsizdir ve hiçbir garanti verilmez.
+Tek tıkla Türkçe oyun metni, otomatik güncelleme, etkinlik takvimi, boss saatleri ve etkileşimli harita.
 
-## İndirme
+[**⬇ İndir**](https://github.com/codedbyOzzy/ozzytr/releases/tag/app)
 
-Son kurulum dosyası [**Uygulama sürümleri**](https://github.com/codedbyOzzy/ozzytr/releases/tag/app) sayfasındadır (`OZZYTR_..._x64-setup.exe`).
-Uygulama kurulduktan sonra çeviriyi ve kendisini otomatik günceller.
+</div>
 
-### Windows "SmartScreen" uyarısı
+---
 
-Uygulama henüz ücretli bir kod imzalama sertifikasıyla imzalı değildir. Bu yüzden ilk kurulumda Windows
-"Windows bilgisayarınızı korudu" uyarısı gösterebilir. Kurmak için **Ek bilgi** → **Yine de çalıştır** seçeneğini kullanın.
-Güncellemeler ayrıca kendi imza anahtarımızla doğrulanır; yanlış imzalı bir güncelleme uygulanmaz.
+## Özellikler
 
-## Ne yapar, ne yapmaz
+- **Tek tıkla Türkçe** — oyunu Steam'de otomatik bulur, çeviriyi kurar, özgün dosyayı yedekler.
+- **Her zaman güncel** — oyun güncellendiğinde çeviri otomatik yenilenir; uygulama kendini de günceller.
+- **Güvenli geri dönüş** — "Orijinale döndür" ile özgün dil dosyası saniyeler içinde geri yüklenir.
+- **Etkinlik takvimi** — boss, arena ve festival saatleri, saat diliminize göre geri sayımla.
+- **Etkileşimli harita** — bölgeler, yer işaretleri ve kendi notlarınız.
+- **Hafif ve akıcı** — boştayken neredeyse hiç kaynak kullanmaz; 8 tema, hafif mod.
 
-- Yalnızca oyunun **yerel dil dosyasını** değiştirir. Değiştirmeden önce özgün dosyanın yedeğini alır.
-- Ayarlar bölümündeki **"Orijinale döndür"** ile özgün dosya geri yüklenir.
-- Oyun güncellenirse ve çeviri o sürüme hazır değilse kurulumu engeller; bozuk dosya yazmaz.
-- Anti-hile açısından risk **sıfır değildir** ve garanti verilmez. Kullanım kendi sorumluluğunuzdadır.
+## Kurulum
 
-## Bu depo nedir?
+1. [Son sürümü](https://github.com/codedbyOzzy/ozzytr/releases/tag/app) indirin (`OZZYTR_..._x64-setup.exe`).
+2. Kurulum dosyasını çalıştırın. Windows ilk çalıştırmada bir uyarı gösterirse **Ek bilgi → Yine de çalıştır** seçin.
+3. OZZY TR'yi açın ve **Türkçe yamayı kur** düğmesine basın.
 
-Bu depoda **kaynak kod yoktur**. Yalnızca uygulamanın indirdiği yayın dosyaları (çeviri, oyun verisi, haberler ve uygulama sürümleri)
-**Releases** bölümünde tutulur. Dosyalar uygulama tarafından otomatik indirilir; elle bir şey yapmanız gerekmez.
+Sonraki güncellemeler uygulamanın içinden otomatik gelir.
 
-## Telif
+## Bu depo
 
-© 2026 OZZY. "OZZY TR" adı ve logosu bana aittir. Oyuna ait metin, görsel ve diğer içerikler ilgili hak sahiplerinindir.
+Bu depo yalnızca uygulamanın indirdiği yayın dosyalarını (çeviri, oyun verisi, haberler, uygulama sürümleri) **Releases** bölümünde barındırır.
+Dosyalar uygulama tarafından otomatik indirilir; elle bir işlem gerekmez.
+
+---
+
+<sub>OZZY TR bağımsız bir topluluk projesidir; NCSOFT veya AION 2 ile bağlantılı değildir. Oyuna ait tüm içerik ve markalar ilgili hak sahiplerine aittir.
+© 2026 OZZY. "OZZY TR" adı ve logosu bana aittir.</sub>
